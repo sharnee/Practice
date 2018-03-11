@@ -1,0 +1,20 @@
+#container{
+	border: 10px solid gray;
+	width: 75%;
+	margin: auto 12.5%;
+	padding: 20px;
+}
+.article{
+	border-bottom: 1px solid #C6FADD;
+}
+.date{
+	font-family: 'Rozha One', serif;
+	color: #88D8BF;
+	width: 10%;
+	border-bottom: 1px solid #C6FADD;
+	text-transform: uppercase;
+}
+.fpg{
+	border-left: 5px solid gray;
+	padding-left: 5px;
+}
